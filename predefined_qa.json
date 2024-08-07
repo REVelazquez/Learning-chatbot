@@ -1,6 +1,6 @@
 [
   {"question": "Hola", "answer": "¡Hola!", "language":"ES"},
-  {"question": "¿Cómo estás?", "answers": ["Estoy bien, gracias.","Me siento genial hoy.", "Todo bien por aquí." ]},
+  {"question": "¿Cómo estás?", "answers": ["Estoy bien, gracias.","Me siento genial hoy.", "Todo bien por aquí." ], "language":"ES"},
   {"question": "¿Cuál es tu nombre?", "answer": "Soy un chatbot.", "language":"ES"},
   {"question": "¿Cómo está el clima?", "answer": "No puedo verificar el clima, ¡pero puedes mirar afuera!", "language":"ES"},
   {"question": "Cuéntame un chiste.", "answer": "¿Por qué los científicos no confían en los átomos? ¡Porque lo componen todo!", "language":"ES"},
